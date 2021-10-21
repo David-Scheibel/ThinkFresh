@@ -1,0 +1,63 @@
+.card {
+  min-width: 4rem;
+  max-width: 15rem;
+  min-height: 4rem;
+  max-height: 35rem;
+}
+
+.super-div {
+  max-width: 155rem;
+  max-height: 155rem;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.course-container {
+  justify-content: center;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  /* text-align: center; */
+}
+
+.typeSelect {
+  min-width: 4rem;
+  max-width: 35rem;
+  min-height: 4rem;
+  max-height: 15rem;
+}
+
+.jumbotron {
+  /* max-width: 90rem; */
+  max-height: 19rem;
+}
+
+.search {
+  margin-left: 10px;
+  float: right;
+  height: 30px;
+  width: 200px;
+}
+
+.card-img-left {
+  min-width: 4rem;
+  max-width: 20rem;
+  min-height: 4rem;
+  max-height: 30rem;
+  float: left;
+}
+
+.navbar-cart {
+  float: right;
+}
+
+.cart-splash-container {
+  padding-bottom: 50px;
+}
+
+.button {
+  vertical-align: bottom;
+}
+
+.form-column {
+  width: 400px;
+}
